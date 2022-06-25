@@ -3,6 +3,10 @@
 This is the website I made it on... This website was some requirements ... I'm a beginner Developer... I tried my best to give a good output.
 Here Is the requirement of this website 😊
 
+
+      ***************  Project Requirements **********
+
+
 ✅ Cosmic World is a cartoon streaming website. Your task is to make a responsive landing page for them with the help of HTML and CSS. The landing page will have 6-7 sections and the following sections are given below:
 
 Navbar: The Navbar section will have a logo on the left side and menu items on the right side
