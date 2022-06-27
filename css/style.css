@@ -136,6 +136,13 @@ nav {
   text-decoration: none;
   color: #ff008e;
 }
+/* About section  */
+.banner-left img{
+  width: 70%;
+}
+.banner-right{
+  display: flex;align-items: center;
+}
 /* Gallery section */
 .gallery {
   display: grid;
