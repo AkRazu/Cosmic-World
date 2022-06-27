@@ -1,6 +1,6 @@
 # Cosmic-World
 
-This website has requirements ... only using here HTML CSS... it's a beginner website... The requirement of this website. 😊
+This website has some requirements ... only using here HTML CSS... it's a beginner website... The requirement of this website. 😊
 
 
                                   ***************  Project Requirements **********
