@@ -1,7 +1,6 @@
 # Cosmic-World
 
-This is the website I made... This website was some requirements ... only using here HTML CSS... I'm a beginner Developer... I tried my best to give a good output. The requirement of this website.
-Here Is the requirement of this website 😊
+This website has requirements ... only using here HTML CSS... it's a beginner website... The requirement of this website. 😊
 
 
                                   ***************  Project Requirements **********
